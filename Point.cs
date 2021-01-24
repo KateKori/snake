@@ -18,6 +18,8 @@ namespace Osnovy_OOP
 
         }
 
+            
+
         public void Draw()
         {
             Console.SetCursorPosition(x, y);

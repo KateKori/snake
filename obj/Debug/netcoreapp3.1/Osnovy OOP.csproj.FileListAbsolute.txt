@@ -22,3 +22,4 @@ C:\Users\korik\source\repos\Osnovy OOP\Osnovy OOP\bin\Debug\netcoreapp3.1\Osnovy
 C:\Users\korik\source\repos\Osnovy OOP\Osnovy OOP\bin\Debug\netcoreapp3.1\Osnovy OOP.dll
 C:\Users\korik\source\repos\Osnovy OOP\Osnovy OOP\bin\Debug\netcoreapp3.1\Osnovy OOP.pdb
 C:\Users\korik\source\repos\Osnovy OOP\Osnovy OOP\obj\Debug\netcoreapp3.1\Osnovy OOP.genruntimeconfig.cache
+C:\Users\korik\source\repos\Osnovy OOP\Osnovy OOP\obj\Debug\netcoreapp3.1\Osnovy OOP.csprojAssemblyReference.cache
